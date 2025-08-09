@@ -59,15 +59,6 @@ We use cost-effective GPS, which works well on Earth. For space applications, **
 
 ---
 
-## 📸 Media & Diagrams
-
-> You can upload images in the `docs/` folder and embed them here like this:
->  
-> `![Rover Diagram](docs/system-architecture.png)`  
->  
-> Or drag and drop pictures into this README in GitHub directly.
-
----
 
 ## 📞 Contact
 
