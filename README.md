@@ -5,8 +5,8 @@ First-year B.E. ECE students from **St. Joseph's Institute of Technology** proud
 ## 👥 Team Members
 - Mohamed Rifay S  
 - Naga Vinay Avvaru  
-- NABEEL AHMED I  
-- NEHANITHA SUGUMARAN  
+- Nabeel Ahmed I
+- Nehanitha Sugumaran 
 - Poornima B  
 
 ---
